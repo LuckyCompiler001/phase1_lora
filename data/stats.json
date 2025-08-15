@@ -1,0 +1,11 @@
+{
+  "samples": 51974,
+  "tokens_p50": 76,
+  "tokens_p90": 169,
+  "tokens_p95": 207,
+  "max_tokens": 1263,
+  "over_limit_count": 0,
+  "over_limit_ids_head": [],
+  "max_allowed": 2048,
+  "tokenizer": "NousResearch/Llama-2-7b-hf"
+}
